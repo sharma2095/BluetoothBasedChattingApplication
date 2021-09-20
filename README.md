@@ -2,6 +2,8 @@
 As we can chat with anyone on Whatsapp using the Internet. Same way, we can chat using this Application as well. But in it, instead of the Internet, Bluetooth is used. And, the range of Bluetooth is approximately 10 Meters. So, we can connect with any device using this app that is within the range of 10 Meters.
 
 
+https://user-images.githubusercontent.com/91001908/134051295-f4838b64-e014-4494-8a01-737bf63f70f1.mp4
+
 This video helps you to understand the functionality of this application.
 
 Basically, in First Activity, it is mandatory to fill both the fields "Name" as well as "Profession". Otherwise, it forces you to fill both of these fields.
